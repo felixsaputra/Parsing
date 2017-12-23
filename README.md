@@ -1,5 +1,12 @@
 # Parsing
 Parsing name suggestion
+
+dalam hal ini memuat 5 nama 
+barbara
+gustav
+bourbon
+chivas
+gin
   
   Program asm dibuat terlebih dahulu dengan nama Parsing dan output programdengan nama Parsingcoba
  +![](/p1.png)
